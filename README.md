@@ -2,7 +2,7 @@
 Repositorio para Reto Encriptador  ONE-Alura Grupo 4. V2.0
 
 
-Este proyecto está hecho por Anabell Perales Torres para el programa Principiante de Programación del Programa Oracle ONE - Alura.
+Este proyecto está hecho por Isaac Cardoso para el programa Principiante de Programación del Programa Oracle ONE - Alura.
 
 V. 1.0 - Creación de la aplicación con conocimientos básicos, siguiendo el diseño original.
          No es responsivo.
